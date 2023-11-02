@@ -1,0 +1,9 @@
+
+.boton-clear:hover{
+    background-color: rgb(240, 255, 105);
+}
+.contenedor-calculadora{
+    border: solid rgb(0, 0, 0) ;
+    background-color: rgb(210, 210, 210);
+    border-radius: 25px;
+}
